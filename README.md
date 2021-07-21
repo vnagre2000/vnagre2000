@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nagre Vaishnavi Ajay
-- 👀 I’m interested in web development career side
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently pursuing Bachelor's degree in computer science and engineering. 
 - 📫 How to reach me contact no.8850060352.
 
